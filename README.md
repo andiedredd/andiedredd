@@ -28,15 +28,5 @@ I specialize in creating scalable web applications and cross-platform solutions.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andiedredd&show_icons=true&theme=dark" alt="Andy's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andiedredd&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andiedredd)
