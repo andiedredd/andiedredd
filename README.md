@@ -1,6 +1,6 @@
 # Hi, I'm Andy 👋
 
-### 👨‍💻 Full-stack Developer | Open Source Enthusiast
+### 👨‍💻 Full-stack Developer
 
 I specialize in creating scalable web applications and cross-platform solutions. My main stack is **Vue.js**, **Nuxt** and **Laravel**. I focus on performance and clean architecture.
 
