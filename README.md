@@ -6,6 +6,14 @@ I specialize in creating scalable web applications and cross-platform solutions.
 
 ---
 
+### 🚀 Latest Projects
+
+* 🌱 **[Veggie Box](https://veggiebox.ru)** — A full-stack web application for a vegan establishment, featuring complete payment and delivery integration.
+* 🤖 **[TwoFiveZero Bot](https://t.me/twofivezerobot)** — Custom Telegram bot.
+* 🎸 **Twinkly Tuner Pro** — A digital instrument tuner application featuring a chromatic mode and custom tuning profiles for guitar, bass, and ukulele.
+
+---
+
 ### 🔧 Tech Stack
 
 **Frontend**
@@ -17,6 +25,7 @@ I specialize in creating scalable web applications and cross-platform solutions.
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
 **Backend & DB**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -30,3 +39,4 @@ I specialize in creating scalable web applications and cross-platform solutions.
 
 ### 📫 Let's Connect
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andiedredd)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TwinklyTuner@gmail.com)
