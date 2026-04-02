@@ -9,8 +9,11 @@ I specialize in creating scalable web applications and cross-platform solutions.
 ### 🚀 Latest Projects
 
 * 🌱 **[Veggie Box](https://veggiebox.ru)** — A full-stack web application for a vegan establishment, featuring complete payment and delivery integration.
-* 🤖 **[TwoFiveZero Bot](https://t.me/twofivezerobot)** — Custom Telegram bot.
-* 🎸 **Twinkly Tuner Pro** — A digital instrument tuner application featuring a chromatic mode and custom tuning profiles for guitar, bass, and ukulele.
+  * *Tech: Vue.js, Laravel, MySQL, Docker*
+* 🤖 **[TwoFiveZero Bot](https://t.me/twofivezerobot)** — A Telegram platform for managing VPN subscriptions (WireGuard). It handles subscription cycles and automated delivery of configuration files.
+  * *Tech: Python (Aiogram 3.x), SQLite, Docker*
+* 🎸 **[Twinkly Tuner](https://github.com/andiedredd/Twinkly-Tuner)** — A cross-platform digital instrument tuner application with a chromatic mode and custom profiles for guitar, bass, and ukulele.
+  * *Tech: Vue.js, Ionic, TypeScript*
 
 ---
 
@@ -25,9 +28,9 @@ I specialize in creating scalable web applications and cross-platform solutions.
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
 **Backend & DB**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
